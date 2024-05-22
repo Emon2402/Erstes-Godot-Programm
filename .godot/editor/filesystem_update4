@@ -1,11 +1,2 @@
-res://gun.gd
-res://gun.tscn
 res://player.tscn
-res://survivorsgame.tscn
-res://pine_tree.tscn
-res://mob.tscn
-res://bullet.tscn
-res://characters/happy_boo/happy_boo.tscn
-res://mob.gd
 res://player.gd
-res://survivorsgame.gd
